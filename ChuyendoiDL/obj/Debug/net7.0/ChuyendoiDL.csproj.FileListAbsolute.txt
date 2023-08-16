@@ -1,0 +1,15 @@
+D:\PTPMQL2324\ChuyendoiDL\bin\Debug\net7.0\ChuyendoiDL.exe
+D:\PTPMQL2324\ChuyendoiDL\bin\Debug\net7.0\ChuyendoiDL.deps.json
+D:\PTPMQL2324\ChuyendoiDL\bin\Debug\net7.0\ChuyendoiDL.runtimeconfig.json
+D:\PTPMQL2324\ChuyendoiDL\bin\Debug\net7.0\ChuyendoiDL.dll
+D:\PTPMQL2324\ChuyendoiDL\bin\Debug\net7.0\ChuyendoiDL.pdb
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.csproj.AssemblyReference.cache
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.AssemblyInfoInputs.cache
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.AssemblyInfo.cs
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.csproj.CoreCompileInputs.cache
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.dll
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\refint\ChuyendoiDL.dll
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.pdb
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ChuyendoiDL.genruntimeconfig.cache
+D:\PTPMQL2324\ChuyendoiDL\obj\Debug\net7.0\ref\ChuyendoiDL.dll
