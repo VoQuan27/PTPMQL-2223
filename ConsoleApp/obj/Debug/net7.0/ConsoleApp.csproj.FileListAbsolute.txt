@@ -1,0 +1,15 @@
+D:\PTPMQL2324\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+D:\PTPMQL2324\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+D:\PTPMQL2324\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+D:\PTPMQL2324\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+D:\PTPMQL2324\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+D:\PTPMQL2324\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
