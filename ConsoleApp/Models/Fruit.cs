@@ -4,7 +4,7 @@ namespace NewApp.Models
     {
         public string FruitID { get; set; }
        public string FruitName { get; set; } 
-       public int Han { get; set; }
+       public int HSD { get; set; }
        public void EnterData()
        {
         System.Console.Write("Ma = ");
