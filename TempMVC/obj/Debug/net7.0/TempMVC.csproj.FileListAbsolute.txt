@@ -1,0 +1,8 @@
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.csproj.AssemblyReference.cache
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.AssemblyInfoInputs.cache
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.AssemblyInfo.cs
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.csproj.CoreCompileInputs.cache
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.RazorAssemblyInfo.cache
+D:\PTPMQL2324\TempMVC\obj\Debug\net7.0\TempMVC.RazorAssemblyInfo.cs
