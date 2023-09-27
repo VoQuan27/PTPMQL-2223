@@ -1,4 +1,4 @@
-using Mvcmovie.Models;
+using MvcMovie.Models;
 
 namespace MvcMovie.Models
 {

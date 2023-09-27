@@ -1,11 +1,11 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace Mvcmovie.Models
+namespace MvcMovie.Models
 {
     [Table("Persons")]
     public class Person
     {
-        [key]
+        [Key]
         public string PersonID { get; set;}
         public string FullName { get; set;}
         public string Address { get; set;}

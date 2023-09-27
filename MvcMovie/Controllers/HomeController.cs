@@ -24,8 +24,6 @@ public class HomeController : Controller
         ViewBag.Message = strOutput;
         return View();
     }
-
-
-    public IActionResult Privacy()
-    {
 }
+
+    
